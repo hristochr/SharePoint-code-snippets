@@ -1,0 +1,5 @@
+<div style="background: rgb(255, 255, 255); padding: 0.2em; border-radius: 5px; border: 0.2em solid black; width: 140px; text-align: center; overflow: auto; text-decoration: none;" unselectable="on">
+	<pre style="line-height: 85%; font-family: arial;" unselectable="on">
+		<a href="/sites/Smartsourcing/hhristov/myapps/default.aspx" unselectable="on">My Button</a>
+	</pre>
+</div>
