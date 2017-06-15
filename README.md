@@ -25,7 +25,7 @@ A simple progress bar for displaying task progress in SharePoint Online task lis
 ## SharePoint conditional form fields
 
 ### Instructions:
-+ Write your script with the required conditiona logic. It must always add its event listener and form associations. Check the sample here.
-+ Upload your script to Site Assets.
-+ Register a new custom action. Run this script in the browser console. (check the comments inside first and edit accordingly).  
++ Write your script with the required conditional logic. It must always add its event listener and form associations. Check the sample here.
++ Upload your script to Site Assets in SP.
++ Register a new custom action by running this script in the browser console. (check the comments inside first and edit accordingly).  
 + Enjoy.
