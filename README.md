@@ -12,20 +12,30 @@ A simple progress bar for displaying task progress in SharePoint Online task lis
 
 ![progress_bar](https://github.com/hristochr/SharePoint-progress-bar/blob/master/progress_bar.PNG "SP Progress Bar")
 
-## SharePoint button
+## CSS buttons
 
 ### Instructions:
 - create a new code snippet
-- paste the code in the code snippet container
+- paste the code in the code snippet container.
 
 ### What you get:
 
 ![html_button](https://github.com/hristochr/SharePoint-code-snippets/blob/master/html%20button.PNG "SP button")
 
+## Native buttons
+
+### Instructions:
+- create a new code snippet and insert it into a page;
+- paste the code in the code snippet container.
+
+### What you get:
+
+![html_button](https://github.com/hristochr/SharePoint-code-snippets/blob/master/buttons.PNG "SP native button")
+
 ## SharePoint conditional form fields
 
 ### Instructions:
-+ Write your script with the required conditional logic. It must always add its event listener and form associations. Check the sample here.
-+ Upload your script to Site Assets in SP.
-+ Register a new custom action by running this script in the browser console. (check the comments inside first and edit accordingly).  
++ Write your script with the required conditional logic. It must always add its event listener and form associations; Check the sample here.
++ Upload your script to Site Assets in SP;
++ Register a new custom action by running this script in the browser console. (check the comments inside first and edit accordingly);
 + Enjoy.
