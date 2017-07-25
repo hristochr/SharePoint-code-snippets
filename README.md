@@ -16,7 +16,7 @@ A simple progress bar for displaying task progress in SharePoint Online task lis
 
 ### Instructions:
 - create a new code snippet
-- paste the [code](https://github.com/hristochr/SharePoint-code-snippets/blob/master/native-button.html) in the code snippet container.
+- paste the code in the code snippet container.
 
 ### What you get:
 
@@ -26,7 +26,7 @@ A simple progress bar for displaying task progress in SharePoint Online task lis
 
 ### Instructions:
 - create a new code snippet and insert it into a page;
-- paste the code in the code snippet container.
+- paste the [code](https://github.com/hristochr/SharePoint-code-snippets/blob/master/native-button.html) in the code snippet container.
 
 ### What you get:
 
