@@ -13,7 +13,7 @@
         newUserCustomAction.set_scriptSrc('~Site/SiteAssets/hide field.js'); //edit here: path to script  
         newUserCustomAction.set_sequence(10);       
         newUserCustomAction.set_title('HideField'); //edit here: set name for the script         
-        newUserCustomAction.set_description('Additional Atlas Copco cutom funtionality!');        
+        newUserCustomAction.set_description('Additional custom functionality!');        
         newUserCustomAction.update();      
         
         clientContext.executeQueryAsync(Function.createDelegate(this, onQuerySucceeded), Function.createDelegate(this, onQueryFailed));    
