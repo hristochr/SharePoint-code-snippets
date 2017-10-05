@@ -39,3 +39,13 @@ A simple progress bar for displaying task progress in SharePoint Online task lis
 + Upload your script to Site Assets in SP;
 + Register a new custom action by running this script in the browser console. (check the comments inside first and edit accordingly);
 + Enjoy.
+
+## SharePoint site homepage
+
+### Instructions:
++ the code [here](https://github.com/hristochr/SharePoint-code-snippets/blob/master/homepage.html) should work copy-paste style on any generic SP online team site (classic style) homepage. 
++ It will hide the side navigation and ribbon and center the main content area.
++ From then on you could insert a table and make sectios with pictures for users to go to. 
+
+### What you get:
+![homepage](https://github.com/hristochr/SharePoint-code-snippets/blob/master/homepage.jpg "homepage")
